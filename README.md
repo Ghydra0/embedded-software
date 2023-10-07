@@ -1,11 +1,11 @@
 # embedded-software
 This repository contains projects done using a PICkit 4 and PIC18F4620. The majority are in C with some done in assembly
 
-## license
+## License
 
 MIT License
 
-Copyright (c) [2023] [Caden Nihart]
+Copyright (c) 2023 Caden Nihart
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
