@@ -1,5 +1,5 @@
 # PIC
-This folder contains projects done with the PICkit 4 and PIC18F4620 in C
+This folder contains projects done with the PICkit 4 and PIC18F4620 in C.
 ## License
 
 MIT License
