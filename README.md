@@ -1,5 +1,5 @@
 # embedded-software
-This repository contains projects done using a PICkit 4 and PIC18F4620. The majority are in C with some done in assembly
+This repository contains embedded software related projects. So far all are done using a PIC microcontroller.
 
 ## License
 
