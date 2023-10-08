@@ -1,5 +1,5 @@
-# embedded-software
-This repository contains projects done using a PICkit 4 and PIC18F4620. The majority are in C with some done in assembly
+# Temperature and light sensor
+Voltage is read from an LMT84 temperature sensor through ADC channel 0 of the PIC. The temperature is calculated in celsius using the voltage and then converted to fahrenheit. The fahrenheit temperature is displayed on a dual 7-segment display and also outputted to TeraTerm. Voltage is also read from a photo resistor through ADC channel 2 and outputted to TeraTerm. Three RGB LEDS will change colors depending on the range of temperature and light values from the two sensors.
 
 ## License
 
